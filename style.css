@@ -1,0 +1,44 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+.container{
+    height: 70vh;
+}
+
+.button{
+    padding: 17.7px;
+    margin: 5px;
+    border: 1px solid black ;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: large;
+}
+
+.button-{
+    padding: 0 21px;
+    margin: 5px;
+    border: 1px solid black ;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: large;
+    
+}
+
+.cbutton{
+    padding: 0 47px 0 42px ;
+    margin: 5px;
+    border: 1px solid black ;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: large;
+}
+
+input{
+    border: 1px solid black ;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 30px;
+    font-size: 1rem;
+}
